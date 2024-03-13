@@ -16,8 +16,6 @@ I enjoy contributing to all sorts of projects, ranging from basic structures to 
 
 </pre>
 
-- 📫 How to reach me **duyanh.dang12@gmail.com**
-
 <div> 
      <a href="mailto:duyanh.dang12@gmail.com" > 
           <img  align="left" alt="Email" title "Please email me" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
