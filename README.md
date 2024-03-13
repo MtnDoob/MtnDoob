@@ -9,7 +9,7 @@ I enjoy contributing to all sorts of projects, ranging from basic structures to 
 <pre>
 🔭 I’m currently building my skills in Artificial Intelligence, Machine Learning, Fullstack development, and Data Science <br>
 🌱 I’m currently looking for a Full-Time/Intern Software Engineering/Data Science role <br>
-📚 Data Science @ UC Berkeley and MSE @ San Jose State University <br>
+📚 Data Science @ UC Berkeley and Masters of Engineering @ San Jose State University <br>
 💬 Ask me about Volleyball, TFT, Data Science
 
 </pre>
