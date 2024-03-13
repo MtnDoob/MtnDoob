@@ -1,46 +1,37 @@
 <!--
 **MtnDoob/MtnDoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ### 🖥️ About Me
-I'm an aspiring full-stack and Artificial Intelligence creator who enjoys building innovative technologies that have an impact on the digital economy one step at a time. I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. 
+I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. 
 
 <pre>
 🔭 I’m currently building my skills in Artificial Intelligence, Machine Learning, Fullstack development, and Data Science <br>
-🌱 I’m currently looking for a Full-Time/Intern Software Engineering/Data Sciene Role <br>
-📚 MSE @ San Jose State University <br>
+🌱 I’m currently looking for a Full-Time/Intern Software Engineering/Data Science role <br>
+📚 Data Science @ UC Berkeley and MSE @ San Jose State University <br>
 💬 Ask me about Volleyball, TFT, Data Science
 
 </pre>
 
 <h1 align="center">Hi 👋, I'm Duy-Anh Dang</h1>
-<h3 align="center">An aspiring data engineer from Bay Area</h3>
+<h3 align="center">An aspiring data scientist from Bay Area</h3>
 
 - 📫 How to reach me **duyanh.dang12@gmail.com**
 
 <div> 
-     <a href="mailto:manjeshprasad21@gmail.com" > 
+     <a href="mailto:duyanh.dang12@gmail.com" > 
           <img  align="left" alt="Email" title "Please email me" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a> 
-     <a href="https://www.linkedin.com/in/manjesh-p-91902919a/">
+     <a href="https://www.linkedin.com/in/duyanh-dang/">
          <img alt="LinkedIn" title="Connect with me on LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
      </a> 
 
+<pre>
 ### 🧰 Languages and Tools: 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+     </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
