@@ -2,8 +2,8 @@
 **MtnDoob/MtnDoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<h1 align="center">Welcome to my Github Profile: Duy-Anh Dang</h1>
-<h3 align="center">An aspiring data scientist from Bay Area</h3>
+<h1 align="center">Welcome to my Github Profile</h1>
+<h3 align="center">Duy-Anh Dang: I'm an aspiring data scientist from Bay Area</h3>
 
 ### 🖥️ About Me
 I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. 
@@ -15,8 +15,6 @@ I enjoy contributing to all sorts of projects, ranging from basic structures to 
 💬 Ask me about Volleyball, TFT, Data Science
 
 </pre>
-
-
 
 - 📫 How to reach me **duyanh.dang12@gmail.com**
 
