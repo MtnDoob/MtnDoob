@@ -27,7 +27,7 @@ I enjoy contributing to all sorts of projects, ranging from basic structures to 
          <img alt="LinkedIn" title="Connect with me on LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
      </a> 
 
-<pre>
+
 ### 🧰 Languages and Tools: 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
