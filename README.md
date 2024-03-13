@@ -2,7 +2,7 @@
 **MtnDoob/MtnDoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<h1 align="center">Welcome to my Github Profile</h1>
+<h1 align="center" style = "color: #FFFF00">~ Welcome to my Github Profile ~</h1> 
 <h3 align="center">Duy-Anh Dang: I'm an aspiring data scientist from Bay Area</h3>
 
 ### 🖥️ About Me
