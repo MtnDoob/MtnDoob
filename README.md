@@ -3,7 +3,7 @@
 
 -->
 <h1 align="center" style = "color: #FFFF00">~ Welcome to my Github Profile ~</h1> 
-<h3 align="center">Duy-Anh Dang: I'm an aspiring data scientist from the Bay Area</h3>
+<h3 align="center">Duy-Anh (Dylan) Dang: I'm an aspiring data scientist from the Bay Area</h3>
 
 ### 🖥️ About Me
 I enjoy contributing to all sorts of projects, ranging from basic structures to large enterprise applications. 
